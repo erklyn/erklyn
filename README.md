@@ -10,8 +10,8 @@ ortaya koymak istiyorum.
 
 /----------------------------ENGLISH---------------------------/
  Hi I'm Utku I'm from Turkey , I am a Computer Engineering student
- I see myself as a iOS developer but I developed with React and Node ,
- I am trying to become a better developer and hopefully make something or be
+ I see myself as a iOS developer but I have developed apps with React and Node ,
+ I am trying to become a better developer and hopefully make or be
  a part of something that I am proud of.
  
  Recently I am trying to get better in Backend development with node.js
