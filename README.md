@@ -1,18 +1,7 @@
-/------------------TURKÇE------------------------------------/
-Merhabalar Ben Utku Bilgisayar Mühendisliği Öğrencisi          
-React ve iOS Developer'ım ama daha çok iOS üzerine              
-Kendimi geliştiriyorum.                                          
-                                                                
-Backend ve Veri Yapıları gibi konularada son zamanlarda         
-zaman ayırıp daha iyi bir geliştiritici olmak ve iyi işler      
-ortaya koymak istiyorum.                                        
+Software Engineering Student trying to become a Fullstack Developer.
 
+I am currently enrolled in Selcuk University studying to become a Computer Engineer but recently felt like I can learn more on my own as a developer as an engineer currently working in a Trailer Company designed , architect and developed their CRM Application and that gave me more experience than all my 3 years in University.
+Started as a part time Tech Support in Serin currently working as a Full Time Software Engineer.
 
-/----------------------------ENGLISH---------------------------/
- Hi I'm Utku I'm from Turkey , I am a Computer Engineering student
- I see myself as a iOS developer but I have developed apps with React and Node ,
- I am trying to become a better developer and hopefully make or be
- a part of something that I am proud of.
- 
- Recently I am trying to get better in Backend development with node.js
- And understand data better.
+Web and Mobile Development is my kind of area of interest on the software development scene. 
+
