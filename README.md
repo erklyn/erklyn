@@ -1,7 +1,7 @@
-Software Engineering Student trying to become a Fullstack Developer.
+I am a JavaScript developer focusing on Backend most of my time but I consider myself a Full Stack Developer.
+ I have developed and I am still developing with TypeScript on the Frontend and the Backend.
+ On the backend Node.js is my go to technology but I can learn other languages for another backend system such as python or golang , I have developed with both GraphQL and REST Api currently trying to shift to Type Graphql and get more experienced on TypeOrm.
 
-I am currently enrolled in Selcuk University studying to become a Computer Engineer but recently felt like I can learn more on my own as an engineer. Currently working in Serin Trailer Company designed , architect and developed their CRM Application and that gave me more experience than all of my 3 years in the University.
-Started as a part time Tech Support in Serin currently working as a Full-Time Software Engineer.
-
-My area of interest is Web Development but I have designed and developed iOS Apps so Mobile Development is also fun for me.
-
+On the Frontend React and Vue Frameworks are my favorites. 
+I Have worked with SQL based Databases such as Postgres and MySQL ,
+And I have experience building apps with NOSQL Databases such as MongoDB and Google Firestore , I Have used Serverless Technologies such as Google Firebase and build applications with it. I have the most experience with MERN Stack.
