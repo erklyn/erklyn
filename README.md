@@ -1,6 +1,14 @@
-Well being a Computer Engineering students , I can literally change what I want to focus on every know and then , all jokes aside , after many hours learning *JavaScript* , *Node* and *GraphQL* , *React* and other technologies 
+"Full Stack" Mobile Develeper 
 
-I was sure I would be a web dev but I decide to pursue a different path not like 180 more like 33 - 25 degree different turn 
+Frontend - Swift , React.js
+Server - Node.js , Deno , GraphQL , Express , Next.js
+DevOps - Docker , Kubernetes , Nginx 
+DBs- MongoDB , MySQL , PostGreSQL , Firestore 
+Languages - Javascript , C++ , Swift
 
-I decided on the Front-end I am just going for iOS development with *Swift* and Server Side of things I will focus on *Node js* with *graphql* and *typescript* and *Next.js*
+Fav : Swift , Typescript , Node.js , Next.js 
 
+Computer Engineering trying to achieve greatness in software development.
+
+https://utkuenesgursel.tech // Right now nothing here will be a app server for my applications
+https://erklyn.netlify.com  // Portfolio Website for now will be moved to utkuenesgursel.com hopefully
