@@ -85,5 +85,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erklyn&show_icons=true&locale=en&layout=compact" alt="erklyn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erklyn&" alt="erklyn" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erklyn&show_icons=true&locale=en&layout=compact" alt="erklyn" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erklyn&" alt="erklyn" /></p>
