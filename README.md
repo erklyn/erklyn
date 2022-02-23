@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/utkuenes" target="blank"><img src="https://img.shields.io/twitter/follow/utkuenes?logo=twitter&style=for-the-badge" alt="utkuenes" /></a> </p>
 
-- 🔭 I’m currently working on **a GraphQL Backend for Serin CRM**
+- 🔭 I’m currently working on **creating A pipeline for my Workflow with Jenkins**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Jenkins & Ansible & CircleCI**
 
 - 👨‍💻 All of my projects are available at [https://erklyn.netlify.app/](https://erklyn.netlify.app/)
 
