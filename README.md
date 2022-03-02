@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">I am a Computer Engineer and a Full Stack Software Engineer @SerinTrailer</h3>
+<h3 align="center">I am a Computer Engineer @KodGemisi</h3>
 <h3 align="center">Turkish , English , German , Japanese , Dutch</h3>
 
 <p align="left"> <a href="https://twitter.com/utkuenes" target="blank"><img src="https://img.shields.io/twitter/follow/utkuenes?logo=twitter&style=for-the-badge" alt="utkuenes" /></a> </p>
 
-- 🔭 I’m currently working on **creating A pipeline for my Workflow with Jenkins**
+- 🔭 I’m currently working on **Grispi with Next.js**
 
-- 🌱 I’m currently learning **Jenkins & Ansible & CircleCI**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://erklyn.netlify.app/](https://erklyn.netlify.app/)
 
