@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Grispi with Next.js**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://erklyn.netlify.app/](https://erklyn.netlify.app/)
 
