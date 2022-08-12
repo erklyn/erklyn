@@ -4,11 +4,10 @@
 
 <p align="left"> <a href="https://twitter.com/utkuenes" target="blank"><img src="https://img.shields.io/twitter/follow/utkuenes?logo=twitter&style=for-the-badge" alt="utkuenes" /></a> </p>
 
-- 🔭 I’m currently working on **Grispi with Next.js**
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://erklyn.netlify.app/](https://erklyn.netlify.app/)
+- 👨‍💻 All of my projects are available at [Personal Site](https://utkuenes.space)
 
 - 📫 How to reach me **uenesgursel@gmail.com**
 
