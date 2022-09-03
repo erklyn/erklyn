@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">I am a Front End Developer</h3>
-<h3 align="center">Turkish , English , German , Japanese , Dutch</h3>
+<h3 align="center">I am a Web Developer at Charles Robotics</h3>
 
 <p align="left"> <a href="https://twitter.com/utkuenes" target="blank"><img src="https://img.shields.io/twitter/follow/utkuenes?logo=twitter&style=for-the-badge" alt="utkuenes" /></a> </p>
 
@@ -24,6 +23,12 @@
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go-lang logo" width="40" height="40"/>
+  </a> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust programming language logo" width="40" height="40"/>
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
