@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack developer @Xerini</h3>
+<h3 align="center">Full Stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/utkuenes" target="blank"><img src="https://img.shields.io/twitter/follow/utkuenes?logo=twitter&style=for-the-badge" alt="utkuenes" /></a> </p>
 
